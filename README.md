@@ -13,3 +13,21 @@ Live Demo on App Store: https://itunes.apple.com/us/app/o2-app/id1363104848?mt=8
 
 XCode view: 
 ![alt text](https://user-images.githubusercontent.com/26701933/79405928-5c667400-7f9e-11ea-8a46-7ec0dbdb37bc.png "X Code Ciew")
+
+========================Third Party libraries implemented ============================
+
+1. TwilioChatClient --> TwilioChatClient is use to for chat
+2. TwilioAccessManager --> TwilioChatClient is use to hand twili token even like expire, update etc
+3. TwilioVideo --> O2 use TwilioVideo for video & audio call, video & audio conference
+4. GooglePlaces
+5. GooglePlacePicker
+6. GoogleMaps --> Google Map & Place API use to send curren or other location on chat
+7. Fabric
+8. Crashlytics --> Fabric use for crash report of O2 app.
+9. Alamofire --> Alamofire user for webservice call
+10. SwiftyGif --> SwiftyGif use to show gif image
+11. SKPhotoBrowser --> SKPhotoBrowser use for create O2 folder on Photos app of device
+12. SwipeCellKit --> SwipeCellKit use on table view for swipe on tableview cell
+13. DropDown --> DropDown show dropdwon on Chatlist screen for short cut of video & audio conference
+14. SlackTextViewController
+15. SwiftRangeSlider'
