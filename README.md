@@ -10,9 +10,36 @@ Live Demo on App Store: https://itunes.apple.com/us/app/o2-app/id1363104848?mt=8
 
 
 
-
 XCode view: 
 ![alt text](https://user-images.githubusercontent.com/26701933/79405928-5c667400-7f9e-11ea-8a46-7ec0dbdb37bc.png "X Code Ciew")
+
+
+Signup:
+
+- Ready to use your Twilio Account SID - Token for sending OTPs
+- Can easily switch signup OTPs to your own HTTP API.
+
+Video Calls:
+
+- Twilio Programmable Video Dependant (Up to 4 people at the same time currently supported)
+- Possible to use another SDK for initiating videos
+
+Audio Calls 
+
+- Up to 10 participents at the same time
+- Twilio support already built in for Audio, Possible to switch to another SDK
+
+
+Chat 
+
+- Unlimited particpents support
+- Audio Voice Message support
+- Image Sharing support
+- Location Sharing Support
+
+
+
+
 
 ======================== **Third Party libraries implemented** ============================
 
@@ -56,6 +83,10 @@ git clone project
 
 ```shell
 cd project-directory
+```
+
+```shell
+brew install cocopods
 ```
 
 ```shell
