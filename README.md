@@ -62,6 +62,8 @@ cd project-directory
 pod install
 ```
 
+Open workspace file in Xcode 10.1 (Later version do not support Swift3)
+
 ### Android environment setup
 
 TODO
