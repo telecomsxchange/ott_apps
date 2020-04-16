@@ -3,6 +3,9 @@
 ### IOS and Android OTT App (Chat, Voice, Video) supports one on one and one to many.
 
 
+Live Demo on App Store: https://itunes.apple.com/us/app/o2-app/id1363104848?mt=8
+
+
 ![alt text](https://ott.telecomsxchange.com/appflow1.jpg "App Flow")
 
 
