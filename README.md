@@ -46,3 +46,23 @@ roomName = roomname is any unique roomname
 Token URL For video = "https://[DOMAIN]/backend/ws/videoToken?identity=%@&roomName=%@"
 
 =============== End ===================================================
+
+
+### IOS environment setup
+
+```shell
+git clone project
+```
+
+```shell
+cd project-directory
+```
+
+```shell
+pod install
+```
+
+### Android environment setup
+
+TODO
+
