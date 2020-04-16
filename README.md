@@ -9,6 +9,8 @@ The approuch here is to open source the Apps and Web services sifde of things an
 
 Live Demo on App Store: https://itunes.apple.com/us/app/o2-app/id1363104848?mt=8
 
+Tested on over 32k Live Users: https://ottusers.telecomsxchange.com 
+
 
 ![alt text](https://ott.telecomsxchange.com/appflow1.jpg "App Flow")
 
