@@ -14,7 +14,7 @@ Live Demo on App Store: https://itunes.apple.com/us/app/o2-app/id1363104848?mt=8
 XCode view: 
 ![alt text](https://user-images.githubusercontent.com/26701933/79405928-5c667400-7f9e-11ea-8a46-7ec0dbdb37bc.png "X Code Ciew")
 
-========================Third Party libraries implemented ============================
+======================== **Third Party libraries implemented** ============================
 
 1. TwilioChatClient --> TwilioChatClient is use to for chat
 2. TwilioAccessManager --> TwilioChatClient is use to hand twili token even like expire, update etc
@@ -31,3 +31,18 @@ XCode view:
 13. DropDown --> DropDown show dropdwon on Chatlist screen for short cut of video & audio conference
 14. SlackTextViewController
 15. SwiftRangeSlider'
+
+
+### Web Service URL
+
+=============== Chat Client====================
+- Token URL For ChatClient : "https://[DOMAIN]/backend/ws/index.php/token"
+
+=============== Group video & Audio call and Conference  ====================
+
+identity = user mobile no with contry code
+roomName = roomname is any unique roomname
+
+Token URL For video = "https://[DOMAIN]/backend/ws/videoToken?identity=%@&roomName=%@"
+
+=============== End ===================================================
