@@ -2,6 +2,10 @@
 
 ### IOS and Android OTT App (Chat, Voice, Video) supports one on one and one to many.
 
+### Mission
+
+The approuch here is to open source the Apps and Web services sifde of things and integrate with as many different CPaaS providers as possible (e.g. Twilio, Sinch, Restcomm, Etc..) we think there is no value today of building another SIP/WebRTC backend, we want to give a head start to developers that need a working IOS, Android app for group and one to one messaging, conferencing, and voice calling.
+
 
 Live Demo on App Store: https://itunes.apple.com/us/app/o2-app/id1363104848?mt=8
 
